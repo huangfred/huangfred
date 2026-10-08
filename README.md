@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Fred Huang from Taiwan, Republic of China.
-- 👀 I’m interested in NFT, Blockchain and Metaverse.
-- 🌱 I’m currently learning Solidity, Python and Javascript.
-- 💞️ I’m looking to collaborate on Metaverse development project.
+- 👀 I’m interested in Blockchain and AI.
 - 📫 You can reach me via Wechat(ID:huangfredtaiwan) or Line(ID:huangfred)
 
 <!---
